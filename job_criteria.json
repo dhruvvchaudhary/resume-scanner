@@ -1,0 +1,5 @@
+{
+  "required_skills": ["Python", "SQL", "Excel", "Power BI"],
+  "bonus_skills": ["Tableau", "Dashboards", "Machine Learning"],
+  "min_experience": 1
+}
