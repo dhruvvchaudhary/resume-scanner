@@ -1,0 +1,19 @@
+John Doe
+Email: john.doe@example.com | Phone: 123-456-7890
+
+Objective:
+To obtain a challenging position where I can utilize my skills in software development and data analysis.
+
+Skills:
+- Python, Java, C++
+- SQL, Excel, Power BI
+- Git, VS Code
+
+Experience:
+Software Developer Intern, ABC Corp
+- Developed internal tools using Python and Flask
+- Automated data entry tasks reducing manual effort by 40%
+
+Education:
+B.Tech in Computer Science
+XYZ University, 2024
