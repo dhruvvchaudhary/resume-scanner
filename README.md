@@ -27,4 +27,22 @@ Resume Screener is a Python-based Command Line Interface (CLI) tool that helps f
 ---
 
 ## 📂 Folder Structure
+resume_screener/
+│
+├── resumes/ # Folder containing candidate resume text files
+│ ├── resume1.txt
+│ └── resume2.txt
+│
+├── criteria.json # JSON file with list of required skills/keywords
+├── screener.py # Main Python script
+└── README.md # Project documentation
 
+
+---
+
+## 🧠 How It Works
+
+1. **Setup** your resumes inside the `resumes/` folder.
+2. Define your desired keywords in `criteria.json`, like:
+   ```json
+   ["python", "sql", "data analysis"]
