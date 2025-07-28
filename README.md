@@ -46,3 +46,7 @@ resume_screener/
 2. Define your desired keywords in `criteria.json`, like:
    ```json
    ["python", "sql", "data analysis"]
+3. **run the script** python screener.py
+4. **Sample Output**
+[✔] resume1.txt matches 2 skill(s): python, sql
+[✖] resume2.txt does not match any required skills
